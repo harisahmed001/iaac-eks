@@ -1,6 +1,6 @@
 # EKS Cluster
 
-This is EKS cluster with manifects of simple go application
+This is EKS cluster with manifests LE install
 
 ## Configuire EKS Ingress By ALB
 
