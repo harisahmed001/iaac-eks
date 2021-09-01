@@ -16,6 +16,26 @@ terraform apply
 kubectl create -f Manifests/.
 ```
 
+## Delete Manifests
+
+```bash
+kubectl delete -f Manifests/.
+```
+
+## Helm Usage
+
+```bash
+cd Helm
+helm install release1 GoApp
+```
+
+## Helm Destory 
+
+```bash
+cd Helm
+helm delete release1
+```
+
 ## Destory IaaS
 
 ```bash
